@@ -1,0 +1,16 @@
+img {
+    float: left; 
+    width:30%;
+    margin: 1.66%;   
+}
+
+p {
+    font-family: Merriweather;
+    /* text-transform: uppercase; */
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 1.66%;
+    padding-bottom: 30px;
+    border-bottom: solid 2px #f1f1f1;
+    width: 30%;
+}
